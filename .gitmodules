@@ -32,3 +32,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "SythilTech/Odoo"]
+	path = SythilTech/Odoo
+	url = git@github.com:SythilTech/Odoo.git
+	branch = 12.0
