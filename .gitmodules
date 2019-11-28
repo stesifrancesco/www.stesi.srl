@@ -37,3 +37,8 @@
 	path = SythilTech/Odoo
 	url = git@github.com:SythilTech/Odoo.git
 	branch = 12.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 12.0
